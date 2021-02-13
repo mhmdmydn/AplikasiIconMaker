@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bground"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="bg_round" />
+
+    <item
+        android:id="@+id/navigation_shadow"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="shadow" />
+
+    <item
+        android:id="@+id/navigation_label"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="label" />
+    
+</menu>
